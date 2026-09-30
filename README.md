@@ -2,9 +2,9 @@
 # What ICT Means to Me
 
 ## About Me
-**Name:** [Your Name]
-**Program:** [e.g., BS Information & Communication Technology]
-**Semester:** [e.g., 3rd]
+**Name:**  Arqam Javed Ahmad
+**Program:**  BS Mechatronics
+**Semester:** 2nd
 **University:** Air University
 
 ## What ICT Means to Me
